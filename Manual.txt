@@ -7,6 +7,7 @@ Este fastuoso programa permite almacenar los nombres de los alumnos de una clase
 
 Nueva línea añadida para el examen
 Ahora se va a preguntar al usuario el número de alumnos
+ramas juntas y conflicto solucionado
 
 LISTA DE VERSIONES
 ------------------
