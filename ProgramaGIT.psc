@@ -19,7 +19,7 @@ Proceso ProgramaGIT
 	// listamos los alumnos
 	
 	Para i<-0 hasta numalum-1 hacer
-		Escribir "ALUMNO N? ",i+1,nombre[i];
+		Escribir "ALUMNO ",i+1," ",nombre[i];
 	FinPara
 	//Nueva línea añadida para el examen
 
